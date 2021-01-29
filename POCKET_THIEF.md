@@ -1,0 +1,26 @@
+{
+   "POCKET_THIEF":{
+      "UTILIZADOR":[
+         {
+            "ROLE":"",
+            "DINHEIRO":"",
+            "CHAVES":"",
+            "IVENTARIO":[
+               {
+                  "BONUS1":"1"
+               }
+            ],
+            "ID":"",
+            "NUMERO_DE_ROUBOS_HISTORICO":"",
+            "NUMERO_DE_DETENCOES_HISTORICO":"",
+            "NUMERO_DE_DETENCOES_RONDA":"",
+            "NUMERO_DE_ROUBOS_RONDA":""
+         }
+      ],
+      "RONDA":{
+         "DATA_INICIO":"",
+         "DATA_FIM":"",
+         "NUMERO_RONDA":""
+      }
+   }
+}
